@@ -100,8 +100,7 @@ header img{
 .explanation h3 { 
 	font: italic 3.5em 'Roboto Slab', serif;
 	text-align: right;
-	padding:2px;
-	padding-right:25px;
+	padding:2px 2px 25px 2px;
 	color: yellow;
     
 	}
