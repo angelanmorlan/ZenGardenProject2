@@ -14,6 +14,9 @@ body {
 	max-width:100%;
 	
 	}
+.main-supporting p {
+    padding-left:25px;
+}
 .main-supporting h3 {
     padding-left:25px;
 }
