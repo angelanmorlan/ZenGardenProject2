@@ -30,11 +30,12 @@ img {
 }
 
 header{
-    position:relative;
-    background-image:url("..//assets/groupSmiles.jpg")no-repeat;
-    padding-top: 30px;
-    padding-bottom: 580px;
-    max-width:100%;
+    	position:relative;
+    	background-image:url("..//assets/groupSmiles.jpg")no-repeat;
+	background-size:cover;
+    	padding-top: 30px;
+    	padding-bottom: 580px;
+    	max-width:100%;
     
     
     
