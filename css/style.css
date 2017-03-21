@@ -68,14 +68,14 @@ header{
 }
 
 
-.main-supporting p { 
+.main-supporting~p { 
 	margin-top: 0; 
 	text-align: left;
     line-height: 1.3em;
     margin-right: 4px;
     margin-left:4px;
 	}
-.main-supporting h3 { 
+.main-supporting~h3 { 
 	font: bold 1.9em 'Roboto Slab', serif;
 	letter-spacing: 1.2px; 
 	padding:2px;
