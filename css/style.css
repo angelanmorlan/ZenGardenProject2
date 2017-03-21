@@ -12,7 +12,7 @@
 body {
 	margin: 0px auto;
 	max-width:100%;
-	font-family: 'Roboto Slab', serif;
+	
 	}
 div {
     
@@ -24,7 +24,7 @@ img {
 .main supporting{
     
 }
-header h1 h2{
+header h1{
     font-family: 'Roboto Slab', serif;
 	font: bold 4em 'Roboto Slab', serif;
 	padding-left: 25px;
@@ -32,7 +32,7 @@ header h1 h2{
     margin:0;
 }
 header h2{
-    font-size: 2em;
+    font: bold 2em 'Roboto Slab', serif;
     color:brown;
     padding-top:-15px;
 }
@@ -51,22 +51,31 @@ header{
     max-width: 600px;
     text-align: left;
     margin-top: 25px;
+	padding-left:25px;
 }
 .preamble p{
     line-height: 1em;
+	font-family: 'Roboto Slab', serif;
+	
+}
+.preamble h3{
+	font: bold 1.9em 'Roboto Slab', serif;
+	letter-spacing: 1.2px; 
+	padding:2px;
+	padding-left:25px;
+	color: Darkred;
+
 }
 
-}
 
-
-p { 
+.main-supporting p { 
 	margin-top: 0; 
 	text-align: left;
     line-height: 1.3em;
     margin-right: 4px;
     margin-left:4px;
 	}
-h3 { 
+.main-supporting h3 { 
 	font: bold 1.9em 'Roboto Slab', serif;
 	letter-spacing: 1.2px; 
 	padding:2px;
