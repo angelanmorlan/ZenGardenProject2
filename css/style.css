@@ -29,17 +29,7 @@ img {
     height:auto;
 }
 
-header{
-    	position:relative;
-    	background-image:url("..//assets/groupSmiles.jpg")no-repeat;
-	background-size:cover;
-    	padding-top: 30px;
-    	padding-bottom: 580px;
-    	max-width:100%;
-    
-    
-    
-}
+
 header h2{
     font: bold 2em 'Roboto Slab', serif;
     color:brown;
@@ -56,6 +46,17 @@ header h1{
 	padding-left: 25px;
     color: darkred;
     margin:0;
+}
+header{
+    	position:relative;
+    	background-image:url("..//assets/groupSmiles.jpg")no-repeat;
+	background-size:cover;
+    	padding-top: 30px;
+    	padding-bottom: 580px;
+    	max-width:100%;
+    
+    
+    
 }
 
 
