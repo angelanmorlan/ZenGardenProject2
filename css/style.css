@@ -68,30 +68,65 @@ header{
 }
 
 
-.main-supporting~p { 
+.explanation p { 
+	font-family: 'Roboto Slab', serif;
 	margin-top: 0; 
 	text-align: left;
     line-height: 1.3em;
     margin-right: 4px;
     margin-left:4px;
 	}
-.main-supporting~h3 { 
+.explanation h3 { 
+	font: italic 3.5em 'Roboto Slab', serif;
+	text-align: right;
+	margin-top: -300px;
+	padding:2px;
+	padding-left:25px;
+	color: yellow;
+    
+	}
+.participation h3{
 	font: bold 1.9em 'Roboto Slab', serif;
 	letter-spacing: 1.2px; 
 	padding:2px;
 	padding-left:25px;
 	color: Darkred;
+}
+.participation p{
+	line-height: 1em;
+	font-family: 'Roboto Slab', serif;
+}
+.benefits h3{
+	font: bold 1.9em 'Roboto Slab', serif;
+	letter-spacing: 1.2px; 
+	padding:2px;
+	padding-left:25px;
+	color: Darkred;
+
+}
+.benefits p{
+	line-height: 1em;
+	font-family: 'Roboto Slab', serif;
+
+}
+.requirements h3{
+	font: bold 1.9em 'Roboto Slab', serif;
+	letter-spacing: 1.2px; 
+	padding:2px;
+	padding-left:25px;
+	color: Darkred;
+
+}
+.requirements p{
+	line-height: 1em;
+	font-family: 'Roboto Slab', serif;
+
+}
+
+
     
-	}
-.explanation > h3{
-    text-align: right;
-    font-size: 3.5em;
-    color:yellow;
-    font-style: italic;
-    margin-top: -300px;
 }
-.explanation > p{
-}
+
 .explanation{
     background-color: lightred;
 }
