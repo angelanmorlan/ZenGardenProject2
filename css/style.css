@@ -32,9 +32,9 @@ img {
 header{
     position:absolute;
     background-image:url("..//assets/groupSmiles.jpg")no-repeat;
-	background-size:cover;
+	background-size:60%;
     padding-bottom: 580px;
-	max-width:60%;
+	
     
     
     
