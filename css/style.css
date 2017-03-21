@@ -25,7 +25,8 @@ body {
 }
 
 img {
-    max-width:50%;
+    position:relative;
+	max-width:50%;
     height:auto;
 }
 
