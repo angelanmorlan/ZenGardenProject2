@@ -17,9 +17,7 @@ body {
 .main-supporting h3 {
     padding-left:25px;
 }
-.main-supporting p  {
-    padding-left:25px;
-}
+
 img {
     width:50%;
     height:auto;
@@ -32,7 +30,7 @@ header h1{
     color: darkred;
     margin:0;
 }
-header h2{
+header>h2{
     font: bold 2em 'Roboto Slab', serif;
     color:brown;
     padding-top:-15px;
@@ -58,6 +56,7 @@ header{
 .preamble p{
     line-height: 1.3em;
 	font-family: 'Roboto Slab', serif;
+	padding-left:25px;
 	
 }
 .preamble h3{
@@ -72,7 +71,7 @@ header{
 
 .explanation p { 
 	font-family: 'Roboto Slab', serif;
-	 
+	 padding-left:25px;
 	text-align: left;
     line-height: 1.3em;
     margin-right: 4px;
@@ -97,6 +96,7 @@ header{
 .participation p{
 	line-height: 1.3em;
 	font-family: 'Roboto Slab', serif;
+	padding-left:25px;
 }
 .benefits h3{
 	font: bold 1.9em 'Roboto Slab', serif;
@@ -109,6 +109,7 @@ header{
 .benefits p{
 	line-height: 1.3em;
 	font-family: 'Roboto Slab', serif;
+	padding-left:25px;
 
 }
 .requirements h3{
@@ -122,6 +123,7 @@ header{
 .requirements p{
 	line-height: 1.3em;
 	font-family: 'Roboto Slab', serif;
+	padding-left:25px;
 
 }
 
