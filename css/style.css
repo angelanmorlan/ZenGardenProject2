@@ -47,7 +47,10 @@ header h1{
     color: darkred;
     margin:0;
 }
-header{
+header img{
+	position:relative;
+	max-width:100%
+/*header{
     	position:relative;
     	background-image:url("..//assets/groupSmiles.jpg")no-repeat;
 	background-size:cover;
@@ -57,7 +60,7 @@ header{
     
     
     
-}
+}*/
 
 
 .summary p{
