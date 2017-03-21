@@ -31,7 +31,7 @@ img {
 
 header{
     position:relative;
-    background-image:url("..//assets/groupSmiles.jpg")no-repeat;
+    background:url("..//assets/groupSmiles.jpg")no-repeat;
 	background-size:60%;
     padding-bottom: 300px;
 	max-width:100%
