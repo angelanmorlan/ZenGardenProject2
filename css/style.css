@@ -25,7 +25,7 @@ img {
 }
 header h1,h2{
     font-family: 'Roboto Slab', serif;
-	font: bold 4em 'Roboto Slab',serif;
+	font: bold 4em 'Roboto Slab', serif;
     color: darkred;
     margin:0;
 }
@@ -45,7 +45,7 @@ header{
     
 }
 .summary {
-    font: 1.7em 'Roboto Slab',serif;
+    font: 1.7em 'Roboto Slab', serif;
     max-width: 600px;
     text-align: left;
     margin-top: 25px;
