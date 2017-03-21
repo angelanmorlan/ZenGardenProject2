@@ -38,6 +38,11 @@ header{
     
     
 }
+header h2{
+    font: bold 2em 'Roboto Slab', serif;
+    color:brown;
+    padding-left: 25px;
+}
 
 header h1{
     font-family: 'Roboto Slab', serif;
@@ -46,11 +51,7 @@ header h1{
     color: darkred;
     margin:0;
 }
-header h2{
-    font: bold 2em 'Roboto Slab', serif;
-    color:brown;
-    padding-left: 25px;
-}
+
 
 .summary p{
     font: 1.7em 'Roboto Slab', serif;
