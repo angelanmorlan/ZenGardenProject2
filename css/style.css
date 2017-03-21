@@ -53,7 +53,7 @@ header{
     margin-top: 25px;
 	padding-left:25px;
 }
-.preamble p{
+.preamble>p{
     line-height: 1.3em;
 	font-family: 'Roboto Slab', serif;
 	padding-left:25px;
