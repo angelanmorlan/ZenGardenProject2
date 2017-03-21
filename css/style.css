@@ -46,7 +46,7 @@ header h1{
     color: darkred;
     margin:0;
 }
-header h2{
+header >h2{
     font: bold 2em 'Roboto Slab', serif;
     color:brown;
     padding-left: 25px;
