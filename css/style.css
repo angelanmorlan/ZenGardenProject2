@@ -14,14 +14,8 @@ body {
 	max-width:100%;
 	
 	}
-.intro{
-	padding-left:25px;
 
-}
-.intro h2{
-	padding-bottom:0px;
 
-}
 
 .main-supporting h3 {
     padding-left:25px;
@@ -39,11 +33,10 @@ header h1{
     color: darkred;
     margin:0;
 }
-header>h2{
+header+h2{
     font: bold 2em 'Roboto Slab', serif;
     color:brown;
-    
-	padding-left: 25px;
+    padding-left: 25px;
 }
 
 header{
