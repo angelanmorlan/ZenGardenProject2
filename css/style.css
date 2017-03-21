@@ -32,7 +32,6 @@ img {
 header{
     
     background:url("..//assets/groupSmiles.jpg")no-repeat;
-    padding-top: 5px;
     padding-bottom: 580px;
     max-width:100%;
     
@@ -42,7 +41,8 @@ header h2{
     font: bold 2em 'Roboto Slab', serif;
     color:brown;
     padding-left: 25px;
-	padding-top:-14px;
+	margin-top:0px;
+
 }
 
 header h1{
