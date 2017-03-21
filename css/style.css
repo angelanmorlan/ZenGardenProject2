@@ -30,7 +30,7 @@ img {
 }
 
 header{
-    position:relative;
+    position:absolute;
     background-image:url("..//assets/groupSmiles.jpg")no-repeat;
 	background-size:cover;
     padding-bottom: 580px;
